@@ -44,6 +44,8 @@ WHERE CONDITION = TRUE
 
 ![image](https://github.com/user-attachments/assets/37555f1e-7709-4e7f-84ab-7fdd19007cb4)
 
+![Screenshot 2024-10-13 182630](https://github.com/user-attachments/assets/9a13f27c-f939-4112-9862-5783291a0664)
+![Screenshot 2024-10-13 183121](https://github.com/user-attachments/assets/e67ece82-0bb2-46dd-9a3c-41f490cf9110)
 
 
 ## Insight

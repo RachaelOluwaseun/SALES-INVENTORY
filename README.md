@@ -30,3 +30,4 @@ This is where we include some basic lines of code or queriesor even some of the 
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+

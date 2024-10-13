@@ -13,6 +13,13 @@ This report presents the results of a data analysis conducted to evaluate the pe
 - Google sheet
 ## Data Cleaning and Preparation
 In the initial phase of the Data clearing and preparations, we perform the following actions:
-1. Data loadinng and Inspection
+1. Data loading and Inspection
 2. Handling missing variables
 3. Data cleaning and formatting
+## Exploratory Analysisq1`
+   EDA involved the exploring of the data to answer soe questions about the Data such as:
+   - What is the overall sales trend?
+   - Which stores are top sellers?
+   - Which markets are top sellers?
+   - What are the business lines/products on peak sales?
+   - Which region has the highest revenue?

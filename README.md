@@ -11,3 +11,8 @@ This report presents the results of a data analysis conducted to evaluate the pe
   2. It helps us to pivot and analyse our data
 - Microsoft Power BI
 - Google sheet
+## Data Cleaning and Preparation
+In the initial phase of the Data clearing and preparations, we perform the following actions:
+1. Data loadinng and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting

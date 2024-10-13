@@ -23,6 +23,7 @@ In the initial phase of the Data clearing and preparations, we perform the follo
    - Which markets are top sellers?
    - What are the business lines/products on peak sales?
    - Which region has the highest revenue?
+
 ## Data Analysis
 This is where we include some basic lines of code or queriesor even some of the DAX expressions used during your analysis
 
@@ -30,4 +31,11 @@ This is where we include some basic lines of code or queriesor even some of the 
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+![image](https://github.com/user-attachments/assets/37555f1e-7709-4e7f-84ab-7fdd19007cb4)
+
+## Insight
+This is where you put the insight gotten from the analysis
+1. The company"s sales have been progressively rising from the period of a specific time.
+2. It has a set back at another  point due to a particular trend that was observed along the line of analysis
+3. Customers segment with high lifetime value can be targeted for marketing efforts.
 

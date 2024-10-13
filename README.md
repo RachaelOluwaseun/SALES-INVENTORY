@@ -6,8 +6,8 @@
 ## Data Sources
 #### The primary source of Data used here is Data Sales csv. and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site.
 ## Tools Used
-#### - Ms Excel [Download Here](https://www.microsoft.com)
-#####    1. This is the major tool used for our analysis
+- Ms Excel [Download Here](https://www.microsoft.com)
+  1. This is the major tool used for our analysis
 #####    2. It helps us to pivot and analyse our data
 #### - Microsoft Power BI
 #### - Google sheet

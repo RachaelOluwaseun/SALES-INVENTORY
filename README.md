@@ -3,14 +3,11 @@
 ## [Project Overview](project-overview) 
 ## [Introduction](introduction)
 ## [Data Sources](data-sources)
-## Tools Used
-## Data Cleaning and Preparation
-## Exploratory Analysis
-## Data Analysis
-## Insight
-
-
-
+## [Tools Used](tools-used)
+## [Data Cleaning and Preparation](data-cleaning-and-preparation)
+## [Exploratory Analysis](exploratory-analysis)
+## [Data Analysis](data-analysis)
+## [Insight](insight)
 
 ## Project Overview 
 This report presents the results of a data analysis conducted to evaluate the performance of Oluwaseun Sales Inventory. It examines historical sales data and inventory levels to optimize inventory management, improve sales forecasting accuracy, reduce inventory costs and increase profitability.

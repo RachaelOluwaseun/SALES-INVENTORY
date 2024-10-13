@@ -1,4 +1,17 @@
 # Oluwaseun Sales Inventory
+## Table of Outline
+## [Project Overview](project-overview) 
+## [Introduction](introduction)
+## [Data Sources](data-sources)
+## Tools Used
+## Data Cleaning and Preparation
+## Exploratory Analysis
+## Data Analysis
+## Insight
+
+
+
+
 ## Project Overview 
 This report presents the results of a data analysis conducted to evaluate the performance of Oluwaseun Sales Inventory. It examines historical sales data and inventory levels to optimize inventory management, improve sales forecasting accuracy, reduce inventory costs and increase profitability.
 ## Introduction
@@ -31,7 +44,10 @@ This is where we include some basic lines of code or queriesor even some of the 
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+
 ![image](https://github.com/user-attachments/assets/37555f1e-7709-4e7f-84ab-7fdd19007cb4)
+
+
 
 ## Insight
 This is where you put the insight gotten from the analysis

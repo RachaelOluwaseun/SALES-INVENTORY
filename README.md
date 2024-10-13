@@ -1,4 +1,4 @@
-# Oluwaseun Sales Inventory-
+# Oluwaseun Sales Inventory
 ## Project Overview 
 #### This report presents the results of a data analysis conducted to evaluate the performance of Oluwaseun Sales Inventory. It examines historical sales data and inventory levels to optimize inventory management, improve sales forecasting accuracy, reduce inventory costs and increase profitability.
 ## Introduction
@@ -7,5 +7,7 @@
 #### Data is gotten from Kaggle.com
 ## Tools Used
 #### - Ms Excel
+#### - -This is the major tool used for our analysis
+#### - - It helps us to pivot and analyse our data
 #### - Power BI
 #### - Google sheet

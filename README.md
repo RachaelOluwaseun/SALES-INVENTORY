@@ -55,5 +55,5 @@ WHERE CONDITION = TRUE
 
 ## Recommendation 
 
-1. The company should focus more on stores and markets where items are highly demanded and where more porfits are made.
+1. The company should focus more on stores and markets where items are highly demanded and where more profits are made.
 2. The company might do away with regions where less than 50 items were sold and device a strategy to improve stores with low/few items.

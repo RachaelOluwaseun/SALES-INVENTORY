@@ -53,3 +53,7 @@ WHERE CONDITION = TRUE
 2. It has a set back at another  point due to a particular trend that was observed along the line of analysis
 3. Customers segment with high lifetime value can be targeted for marketing efforts.
 
+## Recommendation 
+
+1. The company should focus more on stores and markets where items are highly demanded and where more porfits are made.
+2. The company might do away with regions where less than 50 items were sold and device a strategy to improve stores with low/few items.

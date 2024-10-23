@@ -49,7 +49,6 @@ WHERE CONDITION = TRUE
 
 
 ## Insight
-This is where you put the insight gotten from the analysis
 1. The company"s sales have been progressively rising from the period of a specific time.
 2. It has a set back at another  point due to a particular trend that was observed along the line of analysis
 3. Customers segment with high lifetime value can be targeted for marketing efforts.
